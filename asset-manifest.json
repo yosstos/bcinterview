@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/bcinterview/static/css/main.69eda509.chunk.css",
-    "main.js": "/bcinterview/static/js/main.32a40a8d.chunk.js",
-    "main.js.map": "/bcinterview/static/js/main.32a40a8d.chunk.js.map",
+    "main.js": "/bcinterview/static/js/main.2d9fc1f1.chunk.js",
+    "main.js.map": "/bcinterview/static/js/main.2d9fc1f1.chunk.js.map",
     "runtime-main.js": "/bcinterview/static/js/runtime-main.71642ac2.js",
     "runtime-main.js.map": "/bcinterview/static/js/runtime-main.71642ac2.js.map",
     "static/js/2.275c8d84.chunk.js": "/bcinterview/static/js/2.275c8d84.chunk.js",
     "static/js/2.275c8d84.chunk.js.map": "/bcinterview/static/js/2.275c8d84.chunk.js.map",
     "index.html": "/bcinterview/index.html",
-    "precache-manifest.23cace8967e0f7a314d71759016142bc.js": "/bcinterview/precache-manifest.23cace8967e0f7a314d71759016142bc.js",
+    "precache-manifest.f35fe10a93162292cd5446234f46e069.js": "/bcinterview/precache-manifest.f35fe10a93162292cd5446234f46e069.js",
     "service-worker.js": "/bcinterview/service-worker.js",
     "static/css/main.69eda509.chunk.css.map": "/bcinterview/static/css/main.69eda509.chunk.css.map",
     "static/js/2.275c8d84.chunk.js.LICENSE.txt": "/bcinterview/static/js/2.275c8d84.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.71642ac2.js",
     "static/js/2.275c8d84.chunk.js",
     "static/css/main.69eda509.chunk.css",
-    "static/js/main.32a40a8d.chunk.js"
+    "static/js/main.2d9fc1f1.chunk.js"
   ]
 }
