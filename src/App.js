@@ -68,7 +68,7 @@ export default function App() {
         <Route path="/admin">
           <AdminPanel parking={parking} goBack={() => history.push("/")} />
         </Route>
-        <Route exact path="/">
+        <Route path="/">
           <Grid
             container
             direction="column"
